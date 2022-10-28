@@ -1,7 +1,7 @@
 ### Eae, eu sou o Luis! 😎🤙
-- 🔭 Estou atualmente trabalhando como Suporte de T.I, mas em busca de me tornar um Desenvolvedor Fullstack.
+- 🔭 Estou atualmente trabalhando com C#, buscando evoluir cada vez mais.
 - ✍ Cursando Análise e desenvolvimento de sistemas na Estácio.
-- 🌱 Estudando C# e TypeScript.
+- 🌱 Estudando C#, TypeScript, .NET, Angular, React.
 <div align="center">
   <a href="https://luisfelipe449.github.io">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisfelipe449&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
