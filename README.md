@@ -1,4 +1,4 @@
-### Eae, eu sou o Luis! 😎🤙
+### Olá, eu sou o Luis! 😎🤙
 - 🔭 Estou atualmente trabalhando com C#, buscando evoluir cada vez mais.
 - ✍ Cursando Análise e desenvolvimento de sistemas na Estácio.
 - 🌱 Estudando C#, TypeScript, .NET, Angular, React.
