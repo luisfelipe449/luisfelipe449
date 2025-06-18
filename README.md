@@ -1,5 +1,5 @@
 ### Olá, eu sou o Luis! 😎🤙
-- 🔭 Estou atualmente trabalhando com NextJS, Python e AWS, buscando evoluir cada vez mais.
+- 🔭 Estou atualmente trabalhando com NextJS, Python e AWS.
 - ✍ Formado em Análise e desenvolvimento de sistemas.
 - 🌱 Entusiasta em IA.
 <div align="center">
